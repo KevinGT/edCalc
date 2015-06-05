@@ -1,10 +1,3 @@
-<!-- html
-table
-table header
-
-for loop
-php to fill the content -->
-
 <!DOCTYPE html>
 <html>
 <head>
