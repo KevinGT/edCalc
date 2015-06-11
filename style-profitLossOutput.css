@@ -1,0 +1,79 @@
+	body	{
+		margin:auto;
+		position:relative;
+		text-align:left;
+		background-color:black;
+		color:white;
+		}
+	#form	{
+		margin-left: 2em;
+		width: 100%;
+		border: 1px solid white:
+		}
+	.title	{
+		float: left;
+		text-align: left;
+		width: 10em;
+		margin: 1px;
+		}
+	label, input, select	{
+		margin:0.2em;
+		}
+	.nav	{
+		list-style:none;
+		display:inline;
+		float:auto;
+		background-color:#1F1F2E;
+		color:white;
+		padding:0.75em;
+		margin: 0em 1em 0em 0em;
+		}
+	.nav:hover{
+        background-color: #0099CC;
+		text-decoration: underline;
+        color: white;
+		padding-top:1em;
+		padding-bottom:1em;
+        }
+	a	{
+		color: white;
+		text-decoration: none;
+		width: 12em;
+		}
+	a:visited	{
+		color: white;
+	}
+	p, h3	{
+		margin: 1em;
+	}
+	section{
+		background-color:#1F1F2E;
+		margin-top: 1.25em;
+		padding:1em;
+		}
+	h2	{
+		text-decoration:underline;
+		background-color:#1F1F2E;
+		padding: 1em;
+		}
+	footer {
+		text-decoration:underline;
+		background-color:#1F1F2E;
+		margin-top:1em;
+		padding:1em;
+		}
+/* Styling for station mkt_data output */
+		table,th,td	{
+		border-collapse:collapse;
+		}
+	th, td	{
+		text-align:left;
+		padding:0.5em;
+		text-align:center;
+		border:1px solid black;
+		border-collapse: collapse;
+		}
+	td	{
+		text-align:left;
+		}
+		
